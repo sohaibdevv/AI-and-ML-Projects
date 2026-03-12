@@ -1,7 +1,7 @@
-# AI & ML Projects
-This Repo Connects to the AI &amp; ML Projects
+# AI & ML Projects Hub
+A centralized gateway to my core projects, datasets, and experiments in Artificial Intelligence.
 
-# Links
+## Workspace Links
 
 <p>
 <a href="https://www.kaggle.com/sohaibdevv">
