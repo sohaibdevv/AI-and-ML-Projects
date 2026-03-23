@@ -22,4 +22,10 @@ Connecting to my projects and experiments.
        alt="Sohaib Malik Hugging profile">
 </a>
 </p>
+ <p><b>Portfolio Website:</b> Professional projects, technical skills, and creative work.</p>
+<p>
+  <a href="https://sohaibmalikdev-portfolio.vercel.app/" rel="nofollow">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo" alt="Personal Portfolio - Sohaib Malik">
+  </a>
+</p>
 </div>
