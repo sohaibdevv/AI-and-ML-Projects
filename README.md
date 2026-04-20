@@ -34,4 +34,3 @@ Connecting to my projects and experiments.
   </a>
  </p>
  
-</div>
